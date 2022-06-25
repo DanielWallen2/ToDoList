@@ -10,6 +10,14 @@ h1 {
     text-align: center;
 }
 
+main {
+    padding-bottom: 2rem;
+}
+
+#instruction {
+    font-size: 0.9rem;
+}
+
 .row {
     padding-bottom: 0rem;
     padding-top: 0rem;
@@ -24,7 +32,9 @@ h1 {
 }
 
 #form-label {
+    padding-top: 4rem;
     padding-bottom: 0rem;
+    margin-top: 4rem;
     margin-bottom: 0rem;
 }
 
